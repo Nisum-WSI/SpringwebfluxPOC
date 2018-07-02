@@ -1,0 +1,5 @@
+com\nisum\springwebfluxpoc\SpringwebfluxpocApplication.class
+com\nisum\springwebfluxpoc\WebFluxController.class
+com\nisum\springwebfluxpoc\WebFluxRepo.class
+com\nisum\springwebfluxpoc\Score.class
+com\nisum\springwebfluxpoc\SwaggerConfig.class
